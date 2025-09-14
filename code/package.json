@@ -1,0 +1,14 @@
+{
+  "name": "my-discord-bot",
+  "version": "1.0.0",
+  "description": "A simple economy bot for Discord.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "YourName",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
